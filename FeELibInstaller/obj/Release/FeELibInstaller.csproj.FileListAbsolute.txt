@@ -1,0 +1,16 @@
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\bin\Release\FeELibInstaller.exe.config
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\bin\Release\FeELibInstaller.exe
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\bin\Release\FeELibInstaller.pdb
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\FeELibInstaller.csproj.AssemblyReference.cache
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\FeELibInstaller.csproj.SuggestedBindingRedirects.cache
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\MainWindow.g.cs
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\App.g.cs
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\FeELibInstaller_MarkupCompile.cache
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\FeELibInstaller_MarkupCompile.lref
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\MainWindow.baml
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\FeELibInstaller.g.resources
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\FeELibInstaller.Properties.Resources.resources
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\FeELibInstaller.csproj.GenerateResource.cache
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\FeELibInstaller.csproj.CoreCompileInputs.cache
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\FeELibInstaller.exe
+D:\MiDocument\CSharp\FeELibInstaller\FeELibInstaller\obj\Release\FeELibInstaller.pdb
